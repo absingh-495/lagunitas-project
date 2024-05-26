@@ -53,6 +53,11 @@ main{
   cursor: pointer;
 }
 
+#nav_top>i{
+  font-size: 2.5vw;
+  display: none;
+}
+
 /* nav left */
 
 #nav_left{
@@ -68,3 +73,48 @@ main{
   gap: 2vmax;
   border-right: 2px solid rgb(43, 42, 42);
 }
+
+/* bottle img */
+
+#bottle{
+  position:  absolute;
+  height: 95vh;
+  top: 0%;
+  left: 38%;
+  z-index:  990;
+  border-image: 0 0 2vmax black;
+}
+
+#bottlecopy {
+  display: none;
+}
+
+/* Page1 Css */
+
+/* #page-1 {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+} */
+
+/* #page-1 h1 {
+  width: 60vw;
+  background-color: rgb(153, 13, 13);
+  font-family: 'Antom', sans-serif;
+  font-size: 13vw;
+  font-weight: 900;
+  text-align: center;
+  word-spacing: -1.5vw;
+  text-transform: uppercase;
+  line-height: 12vw;
+  background-image: url(img/texture.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-font-smoothing: antialiased;
+} */
