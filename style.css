@@ -91,16 +91,16 @@ main{
 
 /* Page1 Css */
 
-#page-1 {
+/* #page-1 {
   width: 100vw;
   height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
   position: relative;
-}
+} */
 
-#page-1 h1 {
+/* #page-1 h1 {
   width: 60vw;
   background-color: rgb(153, 13, 13);
   font-family: 'Antom', sans-serif;
@@ -117,4 +117,4 @@ main{
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   -webkit-font-smoothing: antialiased;
-}
+} */
