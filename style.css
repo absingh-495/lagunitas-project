@@ -523,3 +523,7 @@ html, body {
   border-style: none;
   cursor: pointer;
 }
+
+#footer{
+  background-color: red;
+}
