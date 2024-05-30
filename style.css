@@ -71,6 +71,7 @@ html, body {
   z-index: 1;
   gap: 2vmax;
   border-right: 2px solid rgb(43, 42, 42);
+  cursor: pointer;
 }
 
 /* Bottle Image */
