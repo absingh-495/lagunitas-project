@@ -455,15 +455,19 @@ html, body {
   opacity: 0;
   transform: rotate(-15deg);
 }
+
 #image44 {
   transform: rotate(-15deg);
 }
+
 #image55 {
   transform: rotate(-15deg);
 }
+
 #page5_bottel h4 {
   font-family: 'Dosis', sans-serif;
 }
+
 #page5_bottel h6 {
   display: flex;
   justify-content: space-around;
@@ -481,6 +485,7 @@ html, body {
   display: flex;
   gap: 30px;
 }
+
 #page6 img {
   width: 50vw;
   height: 62vh;
@@ -506,11 +511,13 @@ html, body {
  letter-spacing: 0.5vw;
  text-transform: uppercase;
 }
+
 #page6_part2 p {
   margin-top: 3vh;
   font-weight: 400;
   font-family: 'Dosis', sans-serif;
   color: #111;
+
 }
 #page6_part2>button {
   margin-top: 3vh;
