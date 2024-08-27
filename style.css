@@ -475,7 +475,6 @@ html, body {
   font-size: 1.1vmax;
 }
 
-
 /* Page 6 */
 
 #page6 {
@@ -496,6 +495,7 @@ html, body {
   width: 40vw;
   height: 62vh;
 }
+
 #page6_part2 h5 {
   font-size: 2vmax;
   font-family: Gilroy;
@@ -517,7 +517,6 @@ html, body {
   font-weight: 400;
   font-family: 'Dosis', sans-serif;
   color: #111;
-
 }
 
  
