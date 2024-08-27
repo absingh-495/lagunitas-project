@@ -512,5 +512,13 @@ html, body {
  text-transform: uppercase;
 }
 
+#page6_part2 p {
+  margin-top: 3vh;
+  font-weight: 400;
+  font-family: 'Dosis', sans-serif;
+  color: #111;
+
+}
+
  
  
